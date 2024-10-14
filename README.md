@@ -171,6 +171,13 @@ Special thanks to our amazing mentors who are guiding this project! 🙌
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Amnyadav">
+                    <img src="https://avatars.githubusercontent.com/u/127370497?v=4" width="100;" alt="Amnyadav"/>
+                    <br />
+                    <sub><b>Aman Yadav</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/haseebzaki-07">
                     <img src="https://avatars.githubusercontent.com/u/147314463?v=4" width="100;" alt="haseebzaki-07"/>
                     <br />
@@ -198,6 +205,8 @@ Special thanks to our amazing mentors who are guiding this project! 🙌
                     <sub><b>Sajal Batra</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/PavanTeja2005">
                     <img src="https://avatars.githubusercontent.com/u/98730339?v=4" width="100;" alt="PavanTeja2005"/>
@@ -205,20 +214,11 @@ Special thanks to our amazing mentors who are guiding this project! 🙌
                     <sub><b>PavanTeja2005</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/NilanchalaPanda">
                     <img src="https://avatars.githubusercontent.com/u/110488337?v=4" width="100;" alt="NilanchalaPanda"/>
                     <br />
                     <sub><b>Nilanchal</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Amnyadav">
-                    <img src="https://avatars.githubusercontent.com/u/127370497?v=4" width="100;" alt="Amnyadav"/>
-                    <br />
-                    <sub><b>Aman Yadav</b></sub>
                 </a>
             </td>
             <td align="center">
